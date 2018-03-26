@@ -14,18 +14,8 @@
       <file leaf-file-name="DBAPI.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DBAPI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setup_db.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup_db.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            <state relative-caret-position="527">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,8 +34,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SQLiteAPI.py" />
-        <option value="$PROJECT_DIR$/DBAPI.py" />
         <option value="$PROJECT_DIR$/setup_db.sh" />
+        <option value="$PROJECT_DIR$/DBAPI.py" />
       </list>
     </option>
   </component>
@@ -190,8 +180,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DBAPI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
